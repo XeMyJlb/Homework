@@ -1,0 +1,15 @@
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm1task3\bin\Debug\net6.0\hm1task3.exe
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm1task3\bin\Debug\net6.0\hm1task3.deps.json
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm1task3\bin\Debug\net6.0\hm1task3.runtimeconfig.json
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm1task3\bin\Debug\net6.0\hm1task3.dll
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm1task3\bin\Debug\net6.0\hm1task3.pdb
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm1task3\obj\Debug\net6.0\hm1task3.csproj.AssemblyReference.cache
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm1task3\obj\Debug\net6.0\hm1task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm1task3\obj\Debug\net6.0\hm1task3.AssemblyInfoInputs.cache
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm1task3\obj\Debug\net6.0\hm1task3.AssemblyInfo.cs
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm1task3\obj\Debug\net6.0\hm1task3.csproj.CoreCompileInputs.cache
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm1task3\obj\Debug\net6.0\hm1task3.dll
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm1task3\obj\Debug\net6.0\refint\hm1task3.dll
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm1task3\obj\Debug\net6.0\hm1task3.pdb
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm1task3\obj\Debug\net6.0\hm1task3.genruntimeconfig.cache
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm1task3\obj\Debug\net6.0\ref\hm1task3.dll
