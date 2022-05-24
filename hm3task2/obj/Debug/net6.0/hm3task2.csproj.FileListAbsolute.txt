@@ -1,0 +1,15 @@
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm3task2\bin\Debug\net6.0\hm3task2.exe
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm3task2\bin\Debug\net6.0\hm3task2.deps.json
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm3task2\bin\Debug\net6.0\hm3task2.runtimeconfig.json
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm3task2\bin\Debug\net6.0\hm3task2.dll
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm3task2\bin\Debug\net6.0\hm3task2.pdb
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm3task2\obj\Debug\net6.0\hm3task2.csproj.AssemblyReference.cache
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm3task2\obj\Debug\net6.0\hm3task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm3task2\obj\Debug\net6.0\hm3task2.AssemblyInfoInputs.cache
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm3task2\obj\Debug\net6.0\hm3task2.AssemblyInfo.cs
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm3task2\obj\Debug\net6.0\hm3task2.csproj.CoreCompileInputs.cache
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm3task2\obj\Debug\net6.0\hm3task2.dll
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm3task2\obj\Debug\net6.0\refint\hm3task2.dll
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm3task2\obj\Debug\net6.0\hm3task2.pdb
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm3task2\obj\Debug\net6.0\hm3task2.genruntimeconfig.cache
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\homework\hm3task2\obj\Debug\net6.0\ref\hm3task2.dll
