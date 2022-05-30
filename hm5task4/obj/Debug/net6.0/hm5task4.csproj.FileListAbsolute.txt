@@ -1,0 +1,15 @@
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\hm5task4\obj\Debug\net6.0\hm5task4.csproj.AssemblyReference.cache
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\hm5task4\obj\Debug\net6.0\hm5task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\hm5task4\obj\Debug\net6.0\hm5task4.AssemblyInfoInputs.cache
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\hm5task4\obj\Debug\net6.0\hm5task4.AssemblyInfo.cs
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\hm5task4\obj\Debug\net6.0\hm5task4.csproj.CoreCompileInputs.cache
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\hm5task4\bin\Debug\net6.0\hm5task4.exe
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\hm5task4\bin\Debug\net6.0\hm5task4.deps.json
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\hm5task4\bin\Debug\net6.0\hm5task4.runtimeconfig.json
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\hm5task4\bin\Debug\net6.0\hm5task4.dll
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\hm5task4\bin\Debug\net6.0\hm5task4.pdb
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\hm5task4\obj\Debug\net6.0\hm5task4.dll
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\hm5task4\obj\Debug\net6.0\refint\hm5task4.dll
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\hm5task4\obj\Debug\net6.0\hm5task4.pdb
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\hm5task4\obj\Debug\net6.0\hm5task4.genruntimeconfig.cache
+C:\Users\xemyj\OneDrive\Рабочий стол\domashnee\hm5task4\obj\Debug\net6.0\ref\hm5task4.dll
